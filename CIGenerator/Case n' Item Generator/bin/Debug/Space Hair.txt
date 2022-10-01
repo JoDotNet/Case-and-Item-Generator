@@ -1,0 +1,5 @@
+﻿['Space Hair'] = {
+ ['Name'] = 'Space Hair',
+ ['Price'] = 7500,
+ ['ID'] = 29384
+}

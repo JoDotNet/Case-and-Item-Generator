@@ -1,0 +1,8 @@
+D:\GitHub\Case-and-Item-Generator\CIGenerator\Case n' Item Generator\bin\Debug\Case n' Item Generator.exe.config
+D:\GitHub\Case-and-Item-Generator\CIGenerator\Case n' Item Generator\bin\Debug\Case n' Item Generator.exe
+D:\GitHub\Case-and-Item-Generator\CIGenerator\Case n' Item Generator\bin\Debug\Case n' Item Generator.pdb
+D:\GitHub\Case-and-Item-Generator\CIGenerator\Case n' Item Generator\obj\Debug\Case n' Item Generator.csproj.AssemblyReference.cache
+D:\GitHub\Case-and-Item-Generator\CIGenerator\Case n' Item Generator\obj\Debug\Case n' Item Generator.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\Case-and-Item-Generator\CIGenerator\Case n' Item Generator\obj\Debug\Case n' Item Generator.csproj.CoreCompileInputs.cache
+D:\GitHub\Case-and-Item-Generator\CIGenerator\Case n' Item Generator\obj\Debug\Case n' Item Generator.exe
+D:\GitHub\Case-and-Item-Generator\CIGenerator\Case n' Item Generator\obj\Debug\Case n' Item Generator.pdb

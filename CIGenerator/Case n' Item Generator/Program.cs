@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Threading;
 
 namespace Case_n__Item_Generator
 {
@@ -10,6 +11,11 @@ namespace Case_n__Item_Generator
     {
         static void Main(string[] args)
         {
+            Menu menu = new Menu();
+
+            menu.NewMenu();
+
+            Console.ReadKey();
         }
     }
 }
